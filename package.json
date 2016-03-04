@@ -1,0 +1,26 @@
+{
+  "name": "charitypinsbackend",
+  "version": "0.0.1",
+  "description": "backend for charitypins",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charitypins/backend.git"
+  },
+  "keywords": [
+    "charity",
+    "map"
+  ],
+  "author": "gsvolt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/charitypins/backend/issues"
+  },
+  "homepage": "https://github.com/charitypins/backend",
+  "dependencies":{
+	  "mocha":"^2.4.5"
+  }
+}
