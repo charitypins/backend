@@ -1,5 +1,7 @@
 # .gitignore for node from https://github.com/github/gitignore/blob/master/Node.gitignore
 
+data/
+
 # Logs
 logs
 *.log
