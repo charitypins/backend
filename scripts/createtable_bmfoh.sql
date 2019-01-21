@@ -27,4 +27,4 @@ INCOME_AMT TEXT,
 REVENUE_AMT TEXT,
 NTEE_CD TEXT,
 SORT_NAME TEXT);
-copy BMF_OH from '/Users/gsvolt/charitypins/backend/data/eo_oh.csv' with delimiter ',' quote '"' csv;
+copy BMF_OH from '/Users/gsvolt/charitypins/backend/data/eo_oh.csv' with delimiter ',' quote '"' csv header;
